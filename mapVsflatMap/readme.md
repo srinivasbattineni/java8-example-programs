@@ -1,6 +1,3 @@
-# java8
-Java 8 features
-
 Differences between Java 8 Map() Vs flatMap() :
 
 map() | flatMap() | 
